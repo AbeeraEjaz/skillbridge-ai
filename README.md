@@ -8,11 +8,14 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini API](https://img.shields.io/badge/Google_Gemini-2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
 [![Supabase Database](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skillbridge-ai-sooty-mu.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **Empowering aspiring developers to bridge the academic-industry gap through on-demand, AI-driven corporate simulations with tamper-proof cloud-verified credentials.**
 
-[Live Demo](#-live-demo--deployment) • [Key Features](#-core-features) • [Architecture](#-system-architecture--workflow) • [Getting Started](#-getting-started) • [Verification Ledger](#-tamper-proof-cloud-verification)
+### 🌐 [Explore Live Application (Vercel)](https://skillbridge-ai-sooty-mu.vercel.app/)
+
+[Live Demo](https://skillbridge-ai-sooty-mu.vercel.app/) • [Key Features](#-core-features) • [Architecture](#-system-architecture--workflow) • [Getting Started](#-getting-started) • [Verification Ledger](#-tamper-proof-cloud-verification)
 
 </div>
 
